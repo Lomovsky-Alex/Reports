@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  MonoReport
+
+  Created by Алекс Ломовской on 18.03.2022.
+  
+*/
+
+// MARK: - Onboarding
+"Onboarding.calendarSummary" = "Calendar summary";
+"Onboarding.calendarSummary.description" = "View a summary for any selected time period";
+"Onboarding.limits" = "Limit Reminders";
+"Onboarding.limits.description" = "Receive notifications of approaching set limits by category";
+"Onboarding.convenience" = "Convenience";
+"Onboarding.convenience.description" = "Mind your own business, and we will take care of all the calculations";
+"Onboarding.login" = "Login via monobank";
+
+// MARK: - Actions
+"Actions.continue" = "Continue";
+"Actions.cancel" = "Cancel";
+
+// MARK: - Error
+"Error.error" = "Error";
+"Error.serverError" = "An unexpected error has occurred. Please try again later";
+
+// MARK: - TabBar
+"Tabbar.item.balance" = "Balance";
+"Tabbar.item.settings" = "Settings";

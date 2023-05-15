@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  MonoReport
+
+  Created by Алекс Ломовской on 18.03.2022.
+  
+*/
+
+// MARK: - Onboarding
+"Onboarding.calendarSummary" = "Календарне зведення";
+"Onboarding.calendarSummary.description" = "Переглядайте зведення за будь-який вибраний період часу";
+"Onboarding.limits" = "Нагадування про ліміти";
+"Onboarding.limits.description" = "Отримайте сповіщення про наближення до встановлених обмежень за категоріями";
+"Onboarding.convenience" = "Зручність";
+"Onboarding.convenience.description" = "Займайтеся своїми справами, а всі розрахунки ми візьмемо на себе";
+"Onboarding.login" = "Увійти через monobank";
+
+// MARK: - Actions
+"Actions.continue" = "Продовжити";
+"Actions.cancel" = "Скасувати";
+
+// MARK: - Error
+"Error.error" = "Помилка";
+"Error.serverError" = "Відбулася непередбачена помилка. Будь ласка, спробуйте пізніше";
+
+// MARK: - TabBar
+"Tabbar.item.balance" = "Баланс";
+"Tabbar.item.settings" = "Налаштування";

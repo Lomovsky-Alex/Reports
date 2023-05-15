@@ -1,0 +1,115 @@
+PODS:
+  - Alamofire (5.6.2)
+  - CCBottomRefreshControl (0.5.2)
+  - CHIPageControl/Aleppo (0.2)
+  - Differentiator (5.0.0)
+  - FSPagerView (0.8.3)
+  - KeychainSwift (20.0.0)
+  - MBProgressHUD (1.2.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - PanModal (1.2.7)
+  - ReachabilitySwift (5.0.0)
+  - Realm (10.29.0):
+    - Realm/Headers (= 10.29.0)
+  - Realm/Headers (10.29.0)
+  - RealmSwift (10.29.0):
+    - Realm (= 10.29.0)
+  - Runtime (2.2.2)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxReachability (1.2.1):
+    - ReachabilitySwift (< 6.0, >= 5.0)
+    - RxCocoa (~> 6)
+    - RxSwift (~> 6)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SetKit (0.0.1)
+  - SnapKit (5.6.0)
+  - StepIndicator (1.0.8)
+  - Unrealm (1.9.4):
+    - Realm
+    - RealmSwift
+    - Runtime
+
+DEPENDENCIES:
+  - CCBottomRefreshControl
+  - CHIPageControl/Aleppo
+  - FSPagerView
+  - KeychainSwift
+  - MBProgressHUD
+  - Moya/RxSwift
+  - PanModal
+  - RxCocoa
+  - RxDataSources
+  - RxReachability
+  - RxSwift
+  - SetKit (from `/Users/alekslomovsky/Work/Personal projects/SetKit`)
+  - SnapKit
+  - StepIndicator
+  - Unrealm
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CCBottomRefreshControl
+    - CHIPageControl
+    - Differentiator
+    - FSPagerView
+    - KeychainSwift
+    - MBProgressHUD
+    - Moya
+    - PanModal
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - Runtime
+    - RxCocoa
+    - RxDataSources
+    - RxReachability
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - StepIndicator
+    - Unrealm
+
+EXTERNAL SOURCES:
+  SetKit:
+    :path: "/Users/alekslomovsky/Work/Personal projects/SetKit"
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  CCBottomRefreshControl: 389780b4488321c91d18f66a6da5ef9606df6de5
+  CHIPageControl: a787bf7205c9b7e7fbfc412be36c5e8636b68f86
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  KeychainSwift: 0ce6a4d13f7228054d1a71bb1b500448fb2ab837
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Realm: 5596770daeff1ad76c8eb10d5947dc10472da779
+  RealmSwift: 35d8d318b7e5a8dbc7096c2a243184e4d19abcc0
+  Runtime: 67741bd196fb4ad821c4d259ccc527bf734d8806
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxReachability: bfd13548bf1dac7a877082d13918a9f39bdb5c18
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SetKit: f2437bf9b39393ddfe1828b8706e4bb2d093fa7e
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  StepIndicator: 748b293f671355b021253f82031ac002f153dc81
+  Unrealm: 547a3e1432a86df5cff7b74927a60cc664cc2a0d
+
+PODFILE CHECKSUM: b8244805255b26e1b35a041e1ee27f3c86e7b461
+
+COCOAPODS: 1.11.3
